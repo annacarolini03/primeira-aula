@@ -153,11 +153,11 @@ h2 {
     transform:rotate(-90deg);
     transform-origin: right center;
 }
-.opcoes-acessibilidade{
+.opcao-acessibilidade{
     margin-top: 10px;
     display: flex;
     flex-direction: column;
 }
-.opcoes-acessibilidade{
+.opcao-acessibilidade{
     margin-bottom:5px;
 }

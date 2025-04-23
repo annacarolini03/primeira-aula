@@ -193,3 +193,18 @@ h2 {
     background-color: var(--alto-contraste-link);
     color: var(--alto-contraste-fundo);
 }
+
+.formulario button,
+.alto-contraste .btn-primary {}
+
+.alto-contraste #tropicalia {
+    background: nome;
+}
+
+.alto-contraste #galeria {
+    background-color: var(--alto-contraste-fundo);
+}
+
+.alto-contraste .fundo-galeria {
+    background: nome;
+}

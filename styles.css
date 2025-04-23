@@ -3,6 +3,9 @@
 
 :root {
     --laranja-claro: #FF862A;
+    --auto-contraste-fundo: #000000;
+    --auto-contraste-texo: #ffffff;
+    --auto-contraste-link: #ae00ff;
 }
 
 body {
@@ -143,24 +146,29 @@ h2 {
 .form-control {
     background-color: #F1EDEF;
 }
+
 .menu-acessibilidade {
-    position:fixed;
-    top:2rem;
-    right:20px;
-    z-index:1000;
+    position: fixed;
+    top: 2rem;
+    right: 20px;
+    z-index: 1000;
 }
-.rotacao-botao{
-    transform:rotate(-90deg);
+
+.rotacao-botao {
+    transform: rotate(-90deg);
     transform-origin: right center;
 }
-.opcao-acessibilidade{
+
+.opcao-acessibilidade {
     margin-top: 10px;
     display: flex;
     flex-direction: column;
 }
-.opcao-acessibilidade{
-    margin-bottom:5px;
+
+.opcao-acessibilidade {
+    margin-bottom: 5px;
 }
-.apresenta-lita{
+
+.apresenta-lita {
     display: nome;
 }
